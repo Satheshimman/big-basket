@@ -1,0 +1,225 @@
+*{
+    margin:0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+.container-1{
+    width:90%;
+}
+.row-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+.top-content{
+   img{
+    width: 35%;
+   }
+}
+
+.box{
+ 
+.cardd{
+    
+    border: 1px solid rgba(128, 128, 128, 0.192);
+    padding: 40px 40px;
+    // padding: 30px
+    .card-img{
+        img{
+           
+        }
+    }
+    .veg-name{
+        text-align: left;
+        h6{
+            font-size: 18px;
+        }
+    }
+    .kg-price{
+       text-align: left;
+        p{
+        text-align: left;
+            font-size: 18px;
+            margin-left: 5px;
+            span{
+            text-decoration: line-through;
+           
+            }
+        }
+       
+    }
+    .del{
+        text-align: left;
+        font-size: smaller;
+    }
+    .show{
+        i{
+        font-size:20px;
+        margin-left: 5px;
+          
+        }
+        button{
+            border: none;
+            outline: none;
+            background-color: orangered;
+            padding: 5px ;
+            color: white;
+            font-size: smaller;
+        }
+        
+    }
+    .show1{
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        flex-wrap: wrap;
+        
+        padding: 0;
+
+        i{
+            font-size: 20px;
+
+        }
+        p{
+            background-color: chartreuse;
+            padding: 2px 40px;
+            color: white;
+           
+        }
+    }
+   
+}
+}
+
+
+.cart-content{
+    img{
+        width: 75%;
+    }
+    .cart-spec{
+        p{
+            font-size: 18px;
+        }
+        h6{
+            font-size: 20px;
+            font-weight: 700;
+        }
+    }
+    .cart-in{
+        i{
+            font-size: 25px;
+            font-weight: bold;
+        }
+        p{
+            background-color: orangered;
+            padding: 3px 40px;
+        }
+    }
+    .cart-out{
+        text-align: center;
+        h6{
+            color: green;
+        }
+    }
+}
+.category-1{
+  h3{
+    font-size: 20px;
+    border-bottom: 2px solid green;
+    display: inline;
+    padding: 2px 0px;
+  }
+  li{
+    list-style: none;
+    padding: 2px 0px;
+    margin-left: 3px ;
+  }
+}
+.categories {
+    h2{
+        border-bottom:2px solid green; 
+        display: inline;
+        padding: 2px 0px;
+    }
+    h5{
+        margin-left: 5px;
+        padding: 2px 0px;
+    }
+}
+
+.fresho{
+    display: inline;
+    border-bottom:2px solid #84c225;
+    margin: 2px  0px;
+}
+.view-content{
+    p{
+        margin: 4px 0px;
+    }
+   
+}
+
+.view-cart{
+    margin: 10px 0px;
+   button{
+    border: 1px solid gray;
+    outline: none;
+    margin: 5px 0px;
+    padding: 5px 20px;
+   }
+   .basket{
+    border: none;
+    outline: none;
+    background-color: #84c225;
+    padding: 5px 20px;
+    margin: 0px 20px;
+   }
+}
+
+.view-cart1{
+    margin: 20px 0px;
+    // display: flex;
+    // justify-content: flex-start;
+    // align-items: center;
+    // margin-right: 30px;
+    i{
+        font-size: 25px;
+        border: 1px solid #84c225;
+        display: inline-block;
+        padding: 1px 10px 10px  10px;
+        margin-bottom: 2px;
+
+
+
+    }
+    p{
+    margin: 0px 30px;
+    display: inline-block;
+    background-color: #84c225;
+    padding: 10px 60px;
+
+
+    }
+}
+
+.bill {
+    
+      margin: 20px 0px;
+    table{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        th,td{
+            border: 1px solid #84c225;
+            padding: 20px 20px;
+            border-collapse: collapse;
+        }
+    }
+}

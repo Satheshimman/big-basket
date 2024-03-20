@@ -1,0 +1,233 @@
+{
+    "products":[
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/10000074-2_2-fresho-cauliflower.jpg",
+        "name":"CauliFlower",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":50,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "id":1,
+        "show2":false
+        },
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/10000203-2_2-fresho-tomato-local.jpg",
+        "name":"Tomato",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":100,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "id":2,
+        "show1":false,
+        "show2":false
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/10000148_30-fresho-onion.jpg",
+        "name":"Onion",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":25,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "id":3,
+        "show2":false
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+        "name":"Eggs",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":6,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":4
+
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/10000273-2_19-fresho-mushrooms-button.jpg",
+        "name":"Mushroom",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":100,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":5
+
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/40287310-2_1-fresho-coloured-capsicum-mix.jpg",
+        "name":"Capcicum",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":30,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":6
+
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/241600_7-tata-salt-iodized.jpg",
+        "name":"Tata Salt",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":10,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":7
+
+        },
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/100285629_3-aachi-powder-chilly.jpg",
+        "name":"Aachi chilli Powder",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":10,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":8
+
+        
+        },
+
+
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/1214947-10_1-cadbury-dairy-milk-fruit-nut-chocolate-bar.jpg",
+        "name":"Dairy Milk",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":200,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":9
+
+        },
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/102745_13-lays-potato-chips-american-style-cream-onion-flavour.jpg",
+        "name":"Lays",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":20,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":10
+
+        },
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/10000909_8-fresho-chicken-curry-cut-without-skin-antibiotic-residue-free.jpg",
+        "name":"Chicken",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":220,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":11
+
+        },
+
+
+        {"img":"https://www.bigbasket.com/media/uploads/p/l/40204406_1-britannia-chocolate-brownie.jpg",
+        "name":"Brittania Cake",
+        "kg":1,
+        "quantity":1,
+        "deltime":"Standard Delivery Time:Today:7AM-9AM",
+        "discount":"Get 27% OFF",
+        "rating":4.5,
+        "price":25,
+        "Isfav":false,
+        "Iscart":false,
+        "show":true,
+        "show1":false,
+        "show2":false,
+        "id":12
+
+        }
+
+   
+        
+    ]
+
+    
+
+    
+}
