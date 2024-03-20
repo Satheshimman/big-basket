@@ -7,7 +7,7 @@ import { View } from "./View";
 
 export const Routing=()=>{
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path="/" element={<Home/>}></Route>
                 <Route path="/cart" element={<Cart/>}></Route>
